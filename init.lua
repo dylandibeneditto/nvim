@@ -1,6 +1,4 @@
 require("main")
 require("main.remap")
-require("main.packer")
-
-
-
+require("main.lazy")
+require("main.opts")
